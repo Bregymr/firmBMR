@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For LiquidCrystal
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Nodo	KEYWORD1	Nodo
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setVelocidad	KEYWORD2
+getVelocidad	KEYWORD2
+setPosicion	KEYWORD2
+getPosicion	KEYWORD2
+setAceleracion	KEYWORD2
+getAceleracion	KEYWORD2
+moverMm		KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

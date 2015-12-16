@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For LiquidCrystal
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CNC	KEYWORD1	CNC
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+inicalizarCNC           KEYWORD2
+anadirEje               KEYWORD2
+anadirExtrusor          KEYWORD2
+posicionar              KEYWORD2
+setVelocidad            KEYWORD2
+activarExtrusor         KEYWORD2
+desactivarExtrusor      KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
